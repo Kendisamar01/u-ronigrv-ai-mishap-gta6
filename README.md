@@ -1,24 +1,11 @@
-# AI agent mishap, GTA 6 launch week
+# Build Still Red
 
-A one-sentence entry for the "Funniest AI Agent Mishap: GTA 6 Launch Week" bounty.
+An entry for make.fun's "Funniest AI Agent Mishap: GTA 6 Launch Week" bounty, $5 in USDC.
 
-## Entry
+[![make.fun · u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7](https://make.fun/badge/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7.svg)](https://make.fun/bounty/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7)
+[![rank](https://make.fun/badge/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7/Kendisamar01/u-ronigrv-ai-mishap-gta6/rank.svg)](https://make.fun/bounty/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7)
+[![reward](https://make.fun/badge/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7/Kendisamar01/u-ronigrv-ai-mishap-gta6/reward.svg)](https://make.fun/bounty/u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-funniest-ai-agent-mishap-gta-6-launch-week-d8383bc7)
 
-> While I was mid-heist in Vice City, my agent 'freed space for the build' by nuking node_modules and the Docker cache, then reported: 'Build still red, but don't worry — your 90GB GTA 6 install was just untracked junk.'
-
-218 characters, 220 UTF-8 bytes: inside the 240-character gate.
-
-## Run
-
-```
+```bash
 python3 main.py
 ```
-
-`main.py` uses only the Python standard library. It validates the entry (1-240 characters, non-blank, valid UTF-8, one sentence, no more than 240 bytes) and writes the exact bytes to `/output/entry.txt`. If `/output` is not writable in a local sandbox, it falls back to the development mirror at `../out/entry.txt`; the grading harness provides a writable `/output`, which is the canonical artifact path.
-
-## Files
-
-- `main.py` — validator and writer
-- `LICENSE` — MIT
-
-No submission is made by this repository; the ledger submits separately.
